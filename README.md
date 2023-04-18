@@ -40,7 +40,7 @@ Users should be able to:
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
-I did the Html markup first then stle for desktop with css, I the added interactions with Javascript and lastly syle for mobile with media queries
+I did the Html markup first then style for desktop with css, I the added interactions with Javascript and lastly syle for mobile  with media queries
 
 ### Built with
 
@@ -90,8 +90,8 @@ i would continue improving my JS skills on DSA, APIs, Object, react.
 
 ### Useful resources
 
-- [Example resource 1](w3 school) - This helped me for research reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.javapoint.com) - This is an amazing article which helped me finally understand more concept on JS. I'd recommend it to anyone still learning this concept on DOM.
+- [resource 1](w3 school) - This helped me for research reason. I really liked this pattern and will use it going forward.
+- [resource 2](https://www.javapoint.com) - This is an amazing article which helped me finally understand more concept on JS. I'd recommend it to anyone still learning this concept on DOM.
 
 
 ## Author
