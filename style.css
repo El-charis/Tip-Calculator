@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -38,7 +39,7 @@ body{
 .subcontainer{
     background-color: hsl(0, 0%, 100%);
     border-radius: 15px;
-    height: 65%;
+    height: 25rem;
     display: flex;
     
 
